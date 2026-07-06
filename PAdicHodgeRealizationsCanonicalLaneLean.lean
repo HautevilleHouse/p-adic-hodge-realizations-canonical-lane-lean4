@@ -1,0 +1,7 @@
+-- This module is the root of the PAdicHodgeRealizationsCanonicalLaneLean Lean proof package.
+import PAdicHodgeRealizationsCanonicalLaneLean.Basic
+import PAdicHodgeRealizationsCanonicalLaneLean.SourcePackage
+import PAdicHodgeRealizationsCanonicalLaneLean.SourceDependencies
+import PAdicHodgeRealizationsCanonicalLaneLean.Formalization
+import PAdicHodgeRealizationsCanonicalLaneLean.ReviewerBridge
+import PAdicHodgeRealizationsCanonicalLaneLean.TheoremStatement
